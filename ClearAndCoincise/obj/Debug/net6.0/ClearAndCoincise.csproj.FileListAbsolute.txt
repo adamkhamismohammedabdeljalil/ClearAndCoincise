@@ -1,0 +1,15 @@
+C:\Users\ADAM K\source\repos\ClearAndCoincise\ClearAndCoincise\bin\Debug\net6.0\ClearAndCoincise.exe
+C:\Users\ADAM K\source\repos\ClearAndCoincise\ClearAndCoincise\bin\Debug\net6.0\ClearAndCoincise.deps.json
+C:\Users\ADAM K\source\repos\ClearAndCoincise\ClearAndCoincise\bin\Debug\net6.0\ClearAndCoincise.runtimeconfig.json
+C:\Users\ADAM K\source\repos\ClearAndCoincise\ClearAndCoincise\bin\Debug\net6.0\ClearAndCoincise.dll
+C:\Users\ADAM K\source\repos\ClearAndCoincise\ClearAndCoincise\bin\Debug\net6.0\ClearAndCoincise.pdb
+C:\Users\ADAM K\source\repos\ClearAndCoincise\ClearAndCoincise\obj\Debug\net6.0\ClearAndCoincise.csproj.AssemblyReference.cache
+C:\Users\ADAM K\source\repos\ClearAndCoincise\ClearAndCoincise\obj\Debug\net6.0\ClearAndCoincise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADAM K\source\repos\ClearAndCoincise\ClearAndCoincise\obj\Debug\net6.0\ClearAndCoincise.AssemblyInfoInputs.cache
+C:\Users\ADAM K\source\repos\ClearAndCoincise\ClearAndCoincise\obj\Debug\net6.0\ClearAndCoincise.AssemblyInfo.cs
+C:\Users\ADAM K\source\repos\ClearAndCoincise\ClearAndCoincise\obj\Debug\net6.0\ClearAndCoincise.csproj.CoreCompileInputs.cache
+C:\Users\ADAM K\source\repos\ClearAndCoincise\ClearAndCoincise\obj\Debug\net6.0\ClearAndCoincise.dll
+C:\Users\ADAM K\source\repos\ClearAndCoincise\ClearAndCoincise\obj\Debug\net6.0\refint\ClearAndCoincise.dll
+C:\Users\ADAM K\source\repos\ClearAndCoincise\ClearAndCoincise\obj\Debug\net6.0\ClearAndCoincise.pdb
+C:\Users\ADAM K\source\repos\ClearAndCoincise\ClearAndCoincise\obj\Debug\net6.0\ClearAndCoincise.genruntimeconfig.cache
+C:\Users\ADAM K\source\repos\ClearAndCoincise\ClearAndCoincise\obj\Debug\net6.0\ref\ClearAndCoincise.dll
